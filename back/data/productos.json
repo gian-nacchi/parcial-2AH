@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "661a1f1c9b1e8a0012345671",
+    "nombre": "iPhone 14",
+    "precio": 1200,
+    "marca": "Apple",
+    "categoria": "smartphones",
+    "descripcion": "Teléfono de alta gama con pantalla OLED y cámara avanzada.",
+    "imagen": "https://picsum.photos/400/225?random=1",
+    "link": "https://www.apple.com/iphone-14/"
+  },
+  {
+    "_id": "661a1f1c9b1e8a0012345672",
+    "nombre": "Galaxy S23",
+    "precio": 1100,
+    "marca": "Samsung",
+    "categoria": "smartphones",
+    "descripcion": "Smartphone potente con excelente rendimiento y cámara.",
+    "imagen": "https://picsum.photos/400/225?random=2",
+    "link": "https://www.samsung.com/galaxy-s23/"
+  },
+  {
+    "_id": "661a1f1c9b1e8a0012345673",
+    "nombre": "MacBook Air M2",
+    "precio": 1500,
+    "marca": "Apple",
+    "categoria": "laptops",
+    "descripcion": "Notebook ultraliviana con chip M2 y gran autonomía.",
+    "imagen": "https://picsum.photos/400/225?random=3",
+    "link": "https://www.apple.com/macbook-air/"
+  },
+  {
+    "_id": "661a1f1c9b1e8a0012345674",
+    "nombre": "ThinkPad X1 Carbon",
+    "precio": 1800,
+    "marca": "Lenovo",
+    "categoria": "laptops",
+    "descripcion": "Laptop empresarial robusta y liviana con gran rendimiento.",
+    "imagen": "https://picsum.photos/400/225?random=4",
+    "link": "https://www.lenovo.com/thinkpad-x1-carbon/"
+  },
+  {
+    "_id": "661a1f1c9b1e8a0012345675",
+    "nombre": "PlayStation 5",
+    "precio": 800,
+    "marca": "Sony",
+    "categoria": "gaming",
+    "descripcion": "Consola de última generación con gráficos avanzados.",
+    "imagen": "https://picsum.photos/400/225?random=5",
+    "link": "https://www.playstation.com/ps5/"
+  },
+  {
+    "_id": "661a1f1c9b1e8a0012345676",
+    "nombre": "Xbox Series X",
+    "precio": 750,
+    "marca": "Microsoft",
+    "categoria": "gaming",
+    "descripcion": "Consola potente con soporte para 4K y alto rendimiento.",
+    "imagen": "https://picsum.photos/400/225?random=6",
+    "link": "https://www.xbox.com/series-x"
+  },
+  {
+    "_id": "661a1f1c9b1e8a0012345677",
+    "nombre": "iPad Pro",
+    "precio": 1000,
+    "marca": "Apple",
+    "categoria": "tablets",
+    "descripcion": "Tablet profesional con pantalla Liquid Retina.",
+    "imagen": "https://picsum.photos/400/225?random=7",
+    "link": "https://www.apple.com/ipad-pro/"
+  },
+  {
+    "_id": "661a1f1c9b1e8a0012345678",
+    "nombre": "Galaxy Tab S8",
+    "precio": 900,
+    "marca": "Samsung",
+    "categoria": "tablets",
+    "descripcion": "Tablet Android potente ideal para trabajo y entretenimiento.",
+    "imagen": "https://picsum.photos/400/225?random=8",
+    "link": "https://www.samsung.com/galaxy-tab-s8/"
+  },
+  {
+    "_id": "661a1f1c9b1e8a0012345679",
+    "nombre": "AirPods Pro",
+    "precio": 300,
+    "marca": "Apple",
+    "categoria": "audio",
+    "descripcion": "Auriculares inalámbricos con cancelación de ruido.",
+    "imagen": "https://picsum.photos/400/225?random=9",
+    "link": "https://www.apple.com/airpods-pro/"
+  },
+  {
+    "_id": "661a1f1c9b1e8a0012345680",
+    "nombre": "Sony WH-1000XM5",
+    "precio": 400,
+    "marca": "Sony",
+    "categoria": "audio",
+    "descripcion": "Auriculares premium con excelente calidad de sonido.",
+    "imagen": "https://picsum.photos/400/225?random=10",
+    "link": "https://www.sony.com/wh-1000xm5/"
+  }
+]
